@@ -3,6 +3,9 @@
 This project performs football player and ball detection on images and videos using [YOLOv8](https://github.com/ultralytics/ultralytics). The model was trained on custom data and used here for **inference only**, with outputs featuring thin bounding boxes and clean annotations for better visuals and presentations.
 
 ---
+![Football Detection Example](Test_detection1.jpg)
+![Football Detection Example](Test_detection2.jpg)
+![Football Detection Example](Test_detection3.jpg)
 
 ## 📌 Features
 
