@@ -4,8 +4,7 @@ This project performs football player and ball detection on images and videos us
 
 ---
 ![Football Detection Example](Test_detection1.jpg)
-![Football Detection Example](Test_detection2.jpg)
-![Football Detection Example](Test_detection3.jpg)
+![Football Detection Example](Test_detection4.jpg)
 
 ## 📌 Features
 
